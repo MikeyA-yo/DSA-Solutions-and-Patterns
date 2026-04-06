@@ -43,6 +43,6 @@ i outline this process below:
 
 ### conclusion
 
-i try to stay language agnostic as possible, these steps should be easily portable to python, java or a similar programming language. you may find my c++ implementation attached.
+i try to stay as language agnostic as much as possible, these steps should be easily reproducible in python, java or a similar programming language. you may find my c++ implementation attached.
 
 solution by [u/algo-xero](https://leetcode.com/u/algo-xero)
